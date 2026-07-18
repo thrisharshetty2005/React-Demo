@@ -19,6 +19,9 @@ function Layout() {
               <th>
                 <Link to="/users">Users</Link>
               </th>
+               <th>
+                <Link to="/login">Login</Link>
+              </th>
             </tr>
           </tbody>
         </table>

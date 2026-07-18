@@ -40,6 +40,9 @@ function Home() {
       <input ref={inputRef}/>
       <button onClick={focusInput}>focus</button>
     </div>
+    {/*<h1 className="text-3xl font-bold underline font-bold:underline bg-sky-50">
+      test Tailwind css
+    </h1>*/}
     </div>
   );
 }
